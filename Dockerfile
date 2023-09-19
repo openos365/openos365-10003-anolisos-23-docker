@@ -1,4 +1,4 @@
-FROM openanolis/anolisos:8
+FROM openanolis/anolisos:23
 
 # 1
 COPY files/ /tmp/files/

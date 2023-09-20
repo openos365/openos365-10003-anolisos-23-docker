@@ -6191,8 +6191,9 @@ qpid-proton-cpp.x86_64                                   0.38.0-1.an23          
 qpid-proton-cpp-devel.x86_64                             0.38.0-1.an23                       os      
 qpid-proton-cpp-docs.noarch                              0.38.0-1.an23                       os      
 qpid-proton-tests.noarch                                 0.38.0-1.an23                       os      
-qpl.x86_64                                               0.2.0-3.an23                        os      
-qpl-devel.x86_64                                         0.2.0-3.an23                        os      
+qpl.x86_64                                               1.1.0-1.an23                        updates 
+qpl-devel.x86_64                                         1.1.0-1.an23                        updates 
+qpl-doc.noarch                                           1.1.0-1.an23                        updates 
 qpl-tests.x86_64                                         0.2.0-3.an23                        os      
 qpress.x86_64                                            11-2.an23                           os      
 qrencode.x86_64                                          4.1.1-2.an23                        os      

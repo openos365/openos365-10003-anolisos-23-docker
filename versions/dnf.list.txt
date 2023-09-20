@@ -2670,6 +2670,9 @@ libdecor.x86_64                                          0.1.1-1.an23           
 libdecor-devel.x86_64                                    0.1.1-1.an23                        os      
 libdhash.x86_64                                          0.5.0-4.an23                        os      
 libdhash-devel.x86_64                                    0.5.0-4.an23                        os      
+libdlb.x86_64                                            7.7.0-2.an23                        updates 
+libdlb-devel.x86_64                                      7.7.0-2.an23                        updates 
+libdlb-doc.noarch                                        7.7.0-2.an23                        updates 
 libdmmp.x86_64                                           0.9.4-1.an23                        os      
 libdmmp-devel.x86_64                                     0.9.4-1.an23                        os      
 libdmx.x86_64                                            1.1.4-1.an23                        os      
@@ -6114,7 +6117,8 @@ python3-zstandard.x86_64                                 0.20.0-1.an23          
 python3-zstandard-doc.noarch                             0.20.0-1.an23                       os      
 python3-zstd.x86_64                                      1.5.4.0-1.an23                      os      
 python3-zstd-doc.x86_64                                  1.5.4.0-1.an23                      os      
-qatengine.x86_64                                         0.6.16-4.an23                       os      
+qatengine.x86_64                                         1.2.0-1.an23                        updates 
+qatengine-doc.noarch                                     1.2.0-1.an23                        updates 
 qatlib.x86_64                                            23.02.0-1.an23                      os      
 qatlib-devel.x86_64                                      23.02.0-1.an23                      os      
 qatlib-service.x86_64                                    23.02.0-1.an23                      os      

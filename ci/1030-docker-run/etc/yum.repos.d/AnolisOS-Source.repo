@@ -1,0 +1,20 @@
+[os-source]
+name=AnolisOS-$releasever - os Source
+baseurl=https://mirrors.openanolis.cn/anolis/$releasever/os/source/
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[updates-source]
+name=AnolisOS-$releasever - updates Source
+baseurl=https://mirrors.openanolis.cn/anolis/$releasever/updates/source/
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[kernel-source]
+name=AnolisOS-$releasever - kernel-6 Source
+baseurl=https://mirrors.openanolis.cn/anolis/$releasever/kernel-6/source/
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1

@@ -1,0 +1,20 @@
+[os-debuginfo]
+name=AnolisOS-$releasever - os Debuginfo
+baseurl=https://mirrors.openanolis.cn/anolis/$releasever/os/$basearch/debug
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[updates-debuginfo]
+name=AnolisOS-$releasever - updates Debuginfo
+baseurl=https://mirrors.openanolis.cn/anolis/$releasever/updates/$basearch/debug
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1
+
+[kernel-6-debuginfo]
+name=AnolisOS-$releasever - kernel-6 Debuginfo
+baseurl=https://mirrors.openanolis.cn/anolis/$releasever/kernel-6/$basearch/debug
+enabled=0
+gpgkey=https://mirrors.openanolis.cn/anolis/RPM-GPG-KEY-ANOLIS
+gpgcheck=1

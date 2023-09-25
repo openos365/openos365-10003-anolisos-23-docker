@@ -2404,7 +2404,7 @@ keyutils-libs-devel.x86_64                               1.6.1-4.an23           
 kmod.x86_64                                              30-4.an23                           os      
 kmod-ast.x86_64                                          5.10.134~14.1.an23-1.an23           os      
 kmod-devel.x86_64                                        30-4.an23                           os      
-kmod-intel-QAT20.x86_64                                  L.0.9.4-00004.10.an23               updates 
+kmod-intel-QAT20.x86_64                                  L.0.9.4-00004.12.an23               updates 
 kmod-intel_dlb2.x86_64                                   8.2.0-2.an23                        updates 
 kmod-libs.x86_64                                         30-4.an23                           os      
 kmod-udma.x86_64                                         0.1.0-1.an23                        updates 

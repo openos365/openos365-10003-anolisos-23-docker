@@ -506,8 +506,8 @@ SDL2.x86_64                                              2.26.4-2.an23          
 SDL2-devel.x86_64                                        2.26.4-2.an23                       os      
 Xaw3d.x86_64                                             1.6.4-1.an23                        os      
 Xaw3d-devel.x86_64                                       1.6.4-1.an23                        os      
-aa_nginx.x86_64                                          1.22.1-1.an23                       updates 
-aa_nginx-doc.noarch                                      1.22.1-1.an23                       updates 
+aa_nginx.x86_64                                          1.22.1-2.an23                       updates 
+aa_nginx-doc.noarch                                      1.22.1-2.an23                       updates 
 abattis-cantarell-fonts.noarch                           0.303.1-4.an23                      os      
 abattis-cantarell-vf-fonts.noarch                        0.303.1-4.an23                      os      
 abi-compliance-checker.noarch                            2.3-2.an23                          os      

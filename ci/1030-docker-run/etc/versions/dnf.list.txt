@@ -19,7 +19,7 @@ coreutils-single.x86_64                                  9.3-1.an23             
 cpp.x86_64                                               12.2.1-2.an23                       @os     
 cracklib.x86_64                                          2.9.8-1.an23                        @os     
 crypto-policies.noarch                                   20221215-4.an23                     @System 
-curl.x86_64                                              8.1.1-1.an23                        @System 
+curl.x86_64                                              8.4.0-1.an23                        @updates
 cyrus-sasl-lib.x86_64                                    2.1.28-6.an23                       @System 
 desktop-file-utils.x86_64                                0.26-2.an23                         @os     
 dnf.noarch                                               4.15.1-1.an23                       @System 
@@ -49,11 +49,11 @@ git.x86_64                                               2.40.1-1.an23          
 git-core.x86_64                                          2.40.1-1.an23                       @os     
 git-core-doc.noarch                                      2.40.1-1.an23                       @os     
 glib2.x86_64                                             2.76.3-1.an23                       @System 
-glibc.x86_64                                             2.36-7.an23                         @System 
-glibc-common.x86_64                                      2.36-7.an23                         @System 
-glibc-devel.x86_64                                       2.36-7.an23                         @os     
-glibc-gconv-extra.x86_64                                 2.36-7.an23                         @os     
-glibc-minimal-langpack.x86_64                            2.36-7.an23                         @System 
+glibc.x86_64                                             2.36-10.an23                        @updates
+glibc-common.x86_64                                      2.36-10.an23                        @updates
+glibc-devel.x86_64                                       2.36-10.an23                        @updates
+glibc-gconv-extra.x86_64                                 2.36-10.an23                        @updates
+glibc-minimal-langpack.x86_64                            2.36-10.an23                        @updates
 gmp.x86_64                                               1:6.2.1-3.an23                      @System 
 gnupg2.x86_64                                            2.4.1-1.an23                        @System 
 gnutls.x86_64                                            3.8.0-1.an23                        @System 
@@ -92,7 +92,7 @@ libcap-ng.x86_64                                         0.8.3-3.an23           
 libcbor.x86_64                                           0.10.2-3.an23                       @os     
 libcom_err.x86_64                                        1.46.5-5.an23                       @System 
 libcomps.x86_64                                          0.1.19-2.an23                       @System 
-libcurl.x86_64                                           8.1.1-1.an23                        @System 
+libcurl.x86_64                                           8.4.0-1.an23                        @updates
 libdatrie.x86_64                                         0.2.13-6.an23                       @os     
 libdnf.x86_64                                            0.70.1-1.an23                       @System 
 libeconf.x86_64                                          0.4.0-4.an23                        @System 
@@ -111,7 +111,7 @@ libmd.x86_64                                             1.0.4-2.an23           
 libmodulemd.x86_64                                       2.14.0-2.an23                       @System 
 libmount.x86_64                                          2.38.1-1.an23                       @System 
 libmpc.x86_64                                            1.3.1-1.an23                        @os     
-libnghttp2.x86_64                                        1.52.0-1.an23                       @System 
+libnghttp2.x86_64                                        1.55.0-1.an23                       @updates
 libnsl2.x86_64                                           2.0.0-5.an23                        @System 
 libpkgconf.x86_64                                        1.8.1-4.an23                        @os     
 libpsl.x86_64                                            0.21.1-5.an23                       @System 
@@ -1024,7 +1024,6 @@ cups-libs.x86_64                                         1:2.4.6-1.an23         
 cups-lpd.x86_64                                          1:2.4.6-1.an23                      os      
 cups-pk-helper.x86_64                                    0.2.7-1.an23                        os      
 cups-printerapp.x86_64                                   1:2.4.6-1.an23                      os      
-curl.x86_64                                              8.4.0-1.an23                        updates 
 curl-doc.noarch                                          8.4.0-1.an23                        updates 
 curl-minimal.x86_64                                      8.4.0-1.an23                        updates 
 cvs.x86_64                                               1.11.23-1.an23                      os      
@@ -1465,17 +1464,12 @@ glib2-devel.x86_64                                       2.76.3-1.an23          
 glib2-doc.noarch                                         2.76.3-1.an23                       os      
 glib2-static.x86_64                                      2.76.3-1.an23                       os      
 glib2-tests.x86_64                                       2.76.3-1.an23                       os      
-glibc.x86_64                                             2.36-10.an23                        updates 
 glibc-all-langpacks.x86_64                               2.36-10.an23                        updates 
 glibc-benchtests.x86_64                                  2.36-10.an23                        updates 
-glibc-common.x86_64                                      2.36-10.an23                        updates 
-glibc-devel.x86_64                                       2.36-10.an23                        updates 
 glibc-doc.noarch                                         2.36-10.an23                        updates 
-glibc-gconv-extra.x86_64                                 2.36-10.an23                        updates 
 glibc-langpack-en.x86_64                                 2.36-10.an23                        updates 
 glibc-langpack-zh.x86_64                                 2.36-10.an23                        updates 
 glibc-locale-source.x86_64                               2.36-10.an23                        updates 
-glibc-minimal-langpack.x86_64                            2.36-10.an23                        updates 
 glibc-nss-devel.x86_64                                   2.36-10.an23                        updates 
 glibc-static.x86_64                                      2.36-10.an23                        updates 
 glibc-utils.x86_64                                       2.36-10.an23                        updates 
@@ -2667,7 +2661,6 @@ libconfig-devel.x86_64                                   1.7.3-3.an23           
 libconfuse.x86_64                                        3.3-1.an23                          os      
 libconfuse-devel.x86_64                                  3.3-1.an23                          os      
 libconfuse-doc.noarch                                    3.3-1.an23                          os      
-libcurl.x86_64                                           8.4.0-1.an23                        updates 
 libcurl-devel.x86_64                                     8.4.0-1.an23                        updates 
 libcurl-minimal.x86_64                                   8.4.0-1.an23                        updates 
 libcxx.x86_64                                            16.0.4-1.an23                       os      
@@ -3018,7 +3011,7 @@ libnfsidmap.x86_64                                       1:2.6.2-3.an23         
 libnfsidmap-devel.x86_64                                 1:2.6.2-3.an23                      os      
 libnftnl.x86_64                                          1.2.5-1.an23                        os      
 libnftnl-devel.x86_64                                    1.2.5-1.an23                        os      
-libnghttp2-devel.x86_64                                  1.52.0-1.an23                       os      
+libnghttp2-devel.x86_64                                  1.55.0-1.an23                       updates 
 libnice.x86_64                                           0.1.21-2.an23                       os      
 libnice-devel.x86_64                                     0.1.21-2.an23                       os      
 libnice-gstreamer1.x86_64                                0.1.21-2.an23                       os      
@@ -3817,7 +3810,8 @@ nfs4-acl-tools.x86_64                                    0.4.2-1.an23           
 nfsv4-client-utils.x86_64                                1:2.6.2-3.an23                      os      
 nftables.x86_64                                          1:1.0.7-2.an23                      os      
 nftables-devel.x86_64                                    1:1.0.7-2.an23                      os      
-nghttp2.x86_64                                           1.52.0-1.an23                       os      
+nghttp2.x86_64                                           1.55.0-1.an23                       updates 
+nghttp2-doc.noarch                                       1.55.0-1.an23                       updates 
 nginx.x86_64                                             1:1.24.0-2.an23                     os      
 nginx-all-modules.noarch                                 1:1.24.0-2.an23                     os      
 nginx-core.x86_64                                        1:1.24.0-2.an23                     os      

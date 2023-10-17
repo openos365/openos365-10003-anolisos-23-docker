@@ -403,7 +403,7 @@ python3-libs.x86_64                       3.10.12-1.an23                @System
 python3-pyparsing.noarch                  3.0.7-1.an23                  @os     
 python3-rpm.x86_64                        4.18.0-7.an23                 @System 
 python3-rpm-macros.noarch                 3.10-23.1.an23                @os     
-qemu-img.x86_64                           2:7.2.0-5.an23                @os     
+qemu-img.x86_64                           15:7.2.6-1.an23               @updates
 readline.x86_64                           8.2-2.an23                    @System 
 rootfiles.noarch                          23-1.an23                     @System 
 rpm.x86_64                                4.18.0-7.an23                 @System 
@@ -428,11 +428,11 @@ tzdata.noarch                             2023c-2.an23                  @System
 unzip.x86_64                              1:6.0-3.an23                  @os     
 util-linux.x86_64                         2.38.1-1.an23                 @os     
 util-linux-core.x86_64                    2.38.1-1.an23                 @os     
-vim-common.x86_64                         2:9.0.1572-1.an23             @os     
-vim-data.noarch                           2:9.0.1572-1.an23             @System 
-vim-enhanced.x86_64                       2:9.0.1572-1.an23             @os     
-vim-filesystem.noarch                     2:9.0.1572-1.an23             @os     
-vim-minimal.x86_64                        2:9.0.1572-1.an23             @System 
+vim-common.x86_64                         2:9.0.2026-1.an23             @updates
+vim-data.noarch                           2:9.0.2026-1.an23             @updates
+vim-enhanced.x86_64                       2:9.0.2026-1.an23             @updates
+vim-filesystem.noarch                     2:9.0.2026-1.an23             @updates
+vim-minimal.x86_64                        2:9.0.2026-1.an23             @updates
 vtable-dumper.x86_64                      1.2-2.an23                    @os     
 which.x86_64                              2.21-18.an23                  @os     
 whois-nls.noarch                          5.5.15-3.an23                 @System 

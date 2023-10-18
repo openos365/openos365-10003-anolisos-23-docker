@@ -393,13 +393,13 @@ python-pip-wheel.noarch                   23.1-1.an23                   @System
 python-rpm-macros.noarch                  3.10-23.1.an23                @os     
 python-setuptools-wheel.noarch            65.5.1-2.an23                 @System 
 python-srpm-macros.noarch                 3.10-23.1.an23                @os     
-python3.x86_64                            3.10.12-1.an23                @System 
+python3.x86_64                            3.10.13-1.an23                @updates
 python3-dnf.noarch                        4.15.1-1.an23                 @System 
 python3-gpg.x86_64                        1.20.0-1.an23                 @System 
 python3-hawkey.x86_64                     0.70.1-1.an23                 @System 
 python3-libcomps.x86_64                   0.1.19-2.an23                 @System 
 python3-libdnf.x86_64                     0.70.1-1.an23                 @System 
-python3-libs.x86_64                       3.10.12-1.an23                @System 
+python3-libs.x86_64                       3.10.13-1.an23                @updates
 python3-pyparsing.noarch                  3.0.7-1.an23                  @os     
 python3-rpm.x86_64                        4.18.0-7.an23                 @System 
 python3-rpm-macros.noarch                 3.10-23.1.an23                @os     

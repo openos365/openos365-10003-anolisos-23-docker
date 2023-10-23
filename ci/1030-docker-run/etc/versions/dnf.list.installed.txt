@@ -85,7 +85,7 @@ libattr.x86_64                            2.5.1-5.an23                  @System
 libblkid.x86_64                           2.38.1-1.an23                 @System 
 libbrotli.x86_64                          1.0.9-5.an23                  @System 
 libbsd.x86_64                             0.11.7-1.an23                 @System 
-libcap.x86_64                             2.67-1.an23                   @System 
+libcap.x86_64                             2.69-1.an23                   @updates
 libcap-ng.x86_64                          0.8.3-3.an23                  @System 
 libcbor.x86_64                            0.10.2-3.an23                 @os     
 libcom_err.x86_64                         1.47.0-1.an23                 @updates
@@ -93,7 +93,7 @@ libcomps.x86_64                           0.1.19-2.an23                 @System
 libcurl.x86_64                            8.4.0-1.an23                  @updates
 libdatrie.x86_64                          0.2.13-6.an23                 @os     
 libdnf.x86_64                             0.70.1-1.an23                 @System 
-libeconf.x86_64                           0.4.0-4.an23                  @System 
+libeconf.x86_64                           0.5.2-1.an23                  @updates
 libedit.x86_64                            3.1-20221030cvs.1.an23        @os     
 libevent.x86_64                           2.1.12-3.an23                 @System 
 libfdisk.x86_64                           2.38.1-1.an23                 @os     

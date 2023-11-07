@@ -77,7 +77,7 @@ langpacks-en.noarch                       3.0-2.an23                    @System
 less.x86_64                               633-3.an23                    @System 
 libacl.x86_64                             2.3.1-3.an23                  @System 
 libaio.x86_64                             0.3.113-1.an23                @os     
-libarchive.x86_64                         3.6.2-2.an23                  @System 
+libarchive.x86_64                         3.7.1-1.an23                  @updates
 libasan.x86_64                            12.2.1-2.an23                 @os     
 libassuan.x86_64                          2.5.5-3.an23                  @System 
 libatomic.x86_64                          12.2.1-2.an23                 @os     
@@ -156,7 +156,7 @@ ocaml-srpm-macros.noarch                  7-1.an23                      @os
 openldap.x86_64                           2.6.4-1.an23                  @System 
 openssh.x86_64                            9.0p1-6.an23                  @os     
 openssh-clients.x86_64                    9.0p1-6.an23                  @os     
-openssl-libs.x86_64                       1:3.0.9-1.an23                @System 
+openssl-libs.x86_64                       1:3.0.12-1.an23               @updates
 p11-kit.x86_64                            0.24.1-4.an23                 @System 
 p11-kit-trust.x86_64                      0.24.1-4.an23                 @System 
 pam.x86_64                                1.5.2-6.an23                  @os     
@@ -172,7 +172,7 @@ perl-AutoLoader.noarch                    5.74-10.an23                  @os
 perl-AutoSplit.noarch                     5.74-10.an23                  @os     
 perl-B.x86_64                             1.83-10.an23                  @os     
 perl-Benchmark.noarch                     1.23-10.an23                  @os     
-perl-CPAN.noarch                          2.34-4.an23                   @os     
+perl-CPAN.noarch                          2.36-1.an23                   @updates
 perl-CPAN-DistnameInfo.noarch             1:0.12-4.an23                 @os     
 perl-CPAN-Meta.noarch                     1:2.150010-3.an23             @os     
 perl-CPAN-Meta-Requirements.noarch        1:2.140-3.an23                @os     
@@ -236,7 +236,7 @@ perl-GDBM_File.x86_64                     1:1.23-10.an23                @os
 perl-Getopt-Long.noarch                   1:2.54-3.an23                 @System 
 perl-Getopt-Std.noarch                    1.13-10.an23                  @System 
 perl-Git.noarch                           2.40.1-1.an23                 @os     
-perl-HTTP-Tiny.noarch                     0.082-4.an23                  @System 
+perl-HTTP-Tiny.noarch                     0.088-1.an23                  @updates
 perl-Hash-Util.x86_64                     0.28-10.an23                  @os     
 perl-Hash-Util-FieldHash.x86_64           1.26-10.an23                  @os     
 perl-I18N-Collate.noarch                  1.02-10.an23                  @os     
@@ -440,4 +440,4 @@ xxhash-libs.x86_64                        0.8.1-4.an23                  @os
 xz-libs.x86_64                            5.4.3-1.an23                  @System 
 yum.noarch                                4.15.1-1.an23                 @System 
 zip.x86_64                                3.0-24.an23                   @os     
-zlib.x86_64                               1.2.13-1.an23                 @System 
+zlib.x86_64                               1.2.13-2.an23                 @updates

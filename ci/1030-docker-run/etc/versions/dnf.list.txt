@@ -5356,7 +5356,7 @@ python3-argcomplete.noarch                               2.0.0-4.an23           
 python3-argon2-cffi.noarch                               21.3.0-1.an23                       os      
 python3-argon2-cffi-bindings.x86_64                      21.2.0-1.an23                       os      
 python3-arrow.noarch                                     1.2.3-1.an23                        os      
-python3-asgiref.noarch                                   3.5.2-1.an23                        os      
+python3-asgiref.noarch                                   3.6.0-1.an23                        updates 
 python3-asn1crypto.noarch                                1.5.1-1.an23                        os      
 python3-asn1crypto-doc.noarch                            1.5.1-1.an23                        os      
 python3-astroid.noarch                                   2.15.4-1.an23                       os      
@@ -6545,9 +6545,9 @@ scpio.x86_64                                             1.6-4.an23             
 scrub.x86_64                                             2.6.1-1.an23                        os      
 sdl12-compat.x86_64                                      1.2.60-1.an23                       os      
 sdl12-compat-devel.x86_64                                1.2.60-1.an23                       os      
-seabios.x86_64                                           1.16.1-1.an23                       os      
-seabios-bin.noarch                                       1.16.1-1.an23                       os      
-seavgabios-bin.noarch                                    1.16.1-1.an23                       os      
+seabios.x86_64                                           1.16.1-2.an23                       updates 
+seabios-bin.noarch                                       1.16.1-2.an23                       updates 
+seavgabios-bin.noarch                                    1.16.1-2.an23                       updates 
 selinux-policy.noarch                                    37.18-2.an23                        os      
 selinux-policy-devel.noarch                              37.18-2.an23                        os      
 selinux-policy-doc.noarch                                37.18-2.an23                        os      
@@ -6575,8 +6575,8 @@ setxkbmap.x86_64                                         1.3.4-1.an23           
 sg3_utils.x86_64                                         1.47-3.an23                         os      
 sg3_utils-devel.x86_64                                   1.47-3.an23                         os      
 sg3_utils-libs.x86_64                                    1.47-3.an23                         os      
-sgabios.x86_64                                           1:0.20180715git-1.an23              os      
-sgabios-bin.noarch                                       1:0.20180715git-1.an23              os      
+sgabios.x86_64                                           1:0.20180715git-2.an23              updates 
+sgabios-bin.noarch                                       1:0.20180715git-2.an23              updates 
 sgml-common.noarch                                       0.6.3-3.an23                        os      
 sgpio.x86_64                                             1.2.1-1.an23                        os      
 shaderc-doc.noarch                                       2023.1-1.an23                       os      

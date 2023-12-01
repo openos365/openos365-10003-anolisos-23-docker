@@ -973,8 +973,8 @@ colord-gtk4-devel.x86_64                                 0.3.0-3.an23           
 colord-libs.x86_64                                       1.4.6-3.an23                        os      
 colord-tests.x86_64                                      1.4.6-3.an23                        os      
 compat-libpthread-nonshared.x86_64                       2.36-10.an23                        updates 
-compiler-rt.x86_64                                       16.0.4-1.an23                       os      
-compiler-rt-doc.noarch                                   16.0.4-1.an23                       os      
+compiler-rt.x86_64                                       16.0.6-2.an23                       updates 
+compiler-rt-doc.noarch                                   16.0.6-2.an23                       updates 
 composer.noarch                                          2.5.5-1.an23                        os      
 composer-doc.noarch                                      2.5.5-1.an23                        os      
 conntrack-tools.x86_64                                   1.4.7-2.an23                        os      

@@ -17,7 +17,7 @@ coreutils-single.x86_64                   9.4-2.an23                    @updates
 cpp.x86_64                                12.2.1-7.an23                 @updates
 cracklib.x86_64                           2.9.8-1.an23                  @os     
 crypto-policies.noarch                    20221215-4.an23               @System 
-curl.x86_64                               8.4.0-1.an23                  @updates
+curl.x86_64                               8.5.0-1.an23                  @updates
 cyrus-sasl-lib.x86_64                     2.1.28-6.an23                 @System 
 desktop-file-utils.x86_64                 0.26-2.an23                   @os     
 dnf.noarch                                4.16.2-1.an23                 @updates
@@ -90,7 +90,7 @@ libcap-ng.x86_64                          0.8.3-3.an23                  @System
 libcbor.x86_64                            0.10.2-3.an23                 @os     
 libcom_err.x86_64                         1.47.0-1.an23                 @updates
 libcomps.x86_64                           0.1.19-2.an23                 @System 
-libcurl.x86_64                            8.4.0-1.an23                  @updates
+libcurl.x86_64                            8.5.0-1.an23                  @updates
 libdatrie.x86_64                          0.2.13-6.an23                 @os     
 libdnf.x86_64                             0.70.2-1.an23                 @updates
 libeconf.x86_64                           0.5.2-1.an23                  @updates
@@ -429,11 +429,11 @@ tzdata.noarch                             2023c-2.an23                  @System
 unzip.x86_64                              1:6.0-3.an23                  @os     
 util-linux.x86_64                         2.38.1-1.an23                 @os     
 util-linux-core.x86_64                    2.38.1-1.an23                 @os     
-vim-common.x86_64                         2:9.0.2092-1.an23             @updates
-vim-data.noarch                           2:9.0.2092-1.an23             @updates
-vim-enhanced.x86_64                       2:9.0.2092-1.an23             @updates
-vim-filesystem.noarch                     2:9.0.2092-1.an23             @updates
-vim-minimal.x86_64                        2:9.0.2092-1.an23             @updates
+vim-common.x86_64                         2:9.0.2122-1.an23             @updates
+vim-data.noarch                           2:9.0.2122-1.an23             @updates
+vim-enhanced.x86_64                       2:9.0.2122-1.an23             @updates
+vim-filesystem.noarch                     2:9.0.2122-1.an23             @updates
+vim-minimal.x86_64                        2:9.0.2122-1.an23             @updates
 vtable-dumper.x86_64                      1.2-2.an23                    @os     
 which.x86_64                              2.21-18.an23                  @os     
 whois-nls.noarch                          5.5.15-3.an23                 @System 

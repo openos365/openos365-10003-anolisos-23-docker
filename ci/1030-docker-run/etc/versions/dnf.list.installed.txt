@@ -144,7 +144,7 @@ lua.x86_64                                5.4.6-1.an23                  @System
 lua-libs.x86_64                           5.4.6-1.an23                  @System 
 lz4-libs.x86_64                           1.9.4-1.an23                  @System 
 make.x86_64                               1:4.4.1-1.an23                @os     
-mkpasswd.x86_64                           5.5.15-3.an23                 @System 
+mkpasswd.x86_64                           5.5.20-1.an23                 @updates
 mpdecimal.x86_64                          2.5.1-3.an23                  @System 
 mpfr.x86_64                               4.2.1-1.an23                  @updates
 ncurses.x86_64                            6.4.20230520-1.an23           @System 
@@ -434,9 +434,9 @@ vim-data.noarch                           2:9.0.2122-1.an23             @updates
 vim-enhanced.x86_64                       2:9.0.2122-1.an23             @updates
 vim-filesystem.noarch                     2:9.0.2122-1.an23             @updates
 vim-minimal.x86_64                        2:9.0.2122-1.an23             @updates
-vtable-dumper.x86_64                      1.2-2.an23                    @os     
+vtable-dumper.x86_64                      1.2-3.an23                    @updates
 which.x86_64                              2.21-18.an23                  @os     
-whois-nls.noarch                          5.5.15-3.an23                 @System 
+whois-nls.noarch                          5.5.20-1.an23                 @updates
 xxhash-libs.x86_64                        0.8.1-4.an23                  @os     
 xz-libs.x86_64                            5.4.4-1.an23                  @updates
 yum.noarch                                4.16.2-1.an23                 @updates

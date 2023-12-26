@@ -54,7 +54,7 @@ glibc-gconv-extra.x86_64                  2.36-10.an23                  @updates
 glibc-minimal-langpack.x86_64             2.36-10.an23                  @updates
 gmp.x86_64                                1:6.3.0-1.an23                @updates
 gnupg2.x86_64                             2.4.3-1.an23                  @updates
-gnutls.x86_64                             3.8.0-1.an23                  @System 
+gnutls.x86_64                             3.8.2-1.an23                  @updates
 go-srpm-macros.noarch                     3.0.15-2.an23                 @os     
 google-noto-fonts-common.noarch           20201206-3.an23               @System 
 google-noto-sans-vf-fonts.noarch          20201206-3.an23               @System 
@@ -121,8 +121,8 @@ libsepol.x86_64                           3.5-1.an23                    @System
 libsigsegv.x86_64                         2.14-2.an23                   @System 
 libsmartcols.x86_64                       2.38.1-1.an23                 @System 
 libsolv.x86_64                            0.7.23-2.an23                 @System 
-libssh.x86_64                             0.10.5-1.an23                 @System 
-libssh-config.noarch                      0.10.5-1.an23                 @System 
+libssh.x86_64                             0.10.6-1.an23                 @updates
+libssh-config.noarch                      0.10.6-1.an23                 @updates
 libstdc++.x86_64                          12.2.1-7.an23                 @updates
 libstdc++-devel.x86_64                    12.2.1-7.an23                 @updates
 libtasn1.x86_64                           4.19.0-2.an23                 @System 

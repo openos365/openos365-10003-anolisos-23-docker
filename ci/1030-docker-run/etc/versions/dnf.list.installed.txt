@@ -195,7 +195,7 @@ perl-Devel-Peek.x86_64                    1.32-15.an23                  @updates
 perl-Devel-SelfStubber.noarch             1.06-15.an23                  @updates
 perl-Devel-Size.x86_64                    1:0.83-4.an23                 @os     
 perl-Digest.noarch                        1.20-4.an23                   @os     
-perl-Digest-MD5.x86_64                    2.58-3.an23                   @os     
+perl-Digest-MD5.x86_64                    2.58-4.an23                   @updates
 perl-Digest-SHA.x86_64                    2:6.03-2.an23                 @os     
 perl-Digest-SHA1.x86_64                   1:2.13-4.an23                 @os     
 perl-DirHandle.noarch                     1.05-15.an23                  @updates
@@ -291,7 +291,7 @@ perl-Pod-Functions.noarch                 1.14-15.an23                  @updates
 perl-Pod-Html.noarch                      1.33-15.an23                  @updates
 perl-Pod-Perldoc.noarch                   3.28.01-5.an23                @System 
 perl-Pod-Simple.noarch                    3.43-5.an23                   @System 
-perl-Pod-Usage.noarch                     4:2.03-3.an23                 @System 
+perl-Pod-Usage.noarch                     4:2.03-4.an23                 @updates
 perl-Safe.noarch                          2.43-15.an23                  @updates
 perl-Scalar-List-Utils.x86_64             5:1.63-3.an23                 @System 
 perl-Search-Dict.noarch                   1.07-15.an23                  @updates
@@ -320,7 +320,7 @@ perl-Text-Abbrev.noarch                   1.02-15.an23                  @updates
 perl-Text-Balanced.noarch                 2.06-1.an23                   @os     
 perl-Text-Diff.noarch                     1.45-4.an23                   @os     
 perl-Text-Glob.noarch                     0.11-3.an23                   @os     
-perl-Text-ParseWords.noarch               3.31-3.an23                   @System 
+perl-Text-ParseWords.noarch               3.31-4.an23                   @updates
 perl-Text-Tabs+Wrap.noarch                2021.0814-4.an23              @System 
 perl-Text-Template.noarch                 1.61-2.an23                   @os     
 perl-Thread.noarch                        3.05-15.an23                  @updates

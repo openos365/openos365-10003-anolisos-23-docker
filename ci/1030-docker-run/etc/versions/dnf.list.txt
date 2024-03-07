@@ -601,8 +601,8 @@ apache-commons-lang3.noarch                              3.12.0-1.an23          
 apache-commons-lang3-javadoc.noarch                      3.12.0-1.an23                       os      
 apache-commons-logging.noarch                            1.2-2.an23                          os      
 apache-commons-logging-javadoc.noarch                    1.2-2.an23                          os      
-apache-ivy.noarch                                        2.5.1-1.an23                        os      
-apache-ivy-javadoc.noarch                                2.5.1-1.an23                        os      
+apache-ivy.noarch                                        2.5.2-1.an23                        updates 
+apache-ivy-javadoc.noarch                                2.5.2-1.an23                        updates 
 apache-resource-bundles.noarch                           37-1.an23                           os      
 apiguardian.noarch                                       1.1.2-1.an23                        os      
 apiguardian-javadoc.noarch                               1.1.2-1.an23                        os      
@@ -6434,8 +6434,8 @@ python3-websocket-client.noarch                          1.3.3-1.an23           
 python3-websocket-client-doc.noarch                      1.3.3-1.an23                        os      
 python3-websockets.x86_64                                10.4-1.an23                         os      
 python3-websockets-doc.noarch                            10.4-1.an23                         os      
-python3-werkzeug.noarch                                  2.2.3-1.an23                        os      
-python3-werkzeug-doc.noarch                              2.2.3-1.an23                        os      
+python3-werkzeug.noarch                                  3.0.1-1.an23                        updates 
+python3-werkzeug-doc.noarch                              3.0.1-1.an23                        updates 
 python3-wheel.x86_64                                     0.38.4-1.an23                       os      
 python3-widgetsnbextension.noarch                        4.0.7-1.an23                        os      
 python3-wrapt.x86_64                                     1.14.1-1.an23                       os      

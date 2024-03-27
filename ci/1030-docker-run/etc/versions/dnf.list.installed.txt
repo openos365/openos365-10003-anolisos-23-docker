@@ -47,11 +47,11 @@ git.x86_64                                2.41.0-1.an23                 @updates
 git-core.x86_64                           2.41.0-1.an23                 @updates
 git-core-doc.noarch                       2.41.0-1.an23                 @updates
 glib2.x86_64                              2.76.4-1.an23                 @updates
-glibc.x86_64                              2.36-10.an23                  @updates
-glibc-common.x86_64                       2.36-10.an23                  @updates
-glibc-devel.x86_64                        2.36-10.an23                  @updates
-glibc-gconv-extra.x86_64                  2.36-10.an23                  @updates
-glibc-minimal-langpack.x86_64             2.36-10.an23                  @updates
+glibc.x86_64                              2.36-13.an23                  @updates
+glibc-common.x86_64                       2.36-13.an23                  @updates
+glibc-devel.x86_64                        2.36-13.an23                  @updates
+glibc-gconv-extra.x86_64                  2.36-13.an23                  @updates
+glibc-minimal-langpack.x86_64             2.36-13.an23                  @updates
 gmp.x86_64                                1:6.3.0-1.an23                @updates
 gnupg2.x86_64                             2.4.3-1.an23                  @updates
 gnutls.x86_64                             3.8.2-1.an23                  @updates
